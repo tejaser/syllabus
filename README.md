@@ -25,6 +25,7 @@ TODO
 - [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
+- [JavaScript: The Good Parts]()
 - [Secrets of the JavaScript Ninja]()
 - [JavaScript: The Definitive Guide]() (Part II)
 - [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -32,6 +33,8 @@ TODO
 - [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Human JavaScript](http://read.humanjavascript.com/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262)
+- [High Performance JavaScript]()
+- [JavaScript Application Design]()
 
 ### Functional Programming
 
@@ -49,15 +52,25 @@ TODO
 - [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript)
 
+### Testing
+
+- [Test-Driven JavaScript Development]()
+- [JavaScript Testing Recipes]()
+- [Behaviour Driven Development with JavaScript]()
+
 ### Node.js
 
 ### Databases
 
 ### DevOps
 
+## Creators
+
+## Contributors
+
 ## References
 
 - [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
-- []()
+- [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 - []()
 - []()
