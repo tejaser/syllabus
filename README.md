@@ -6,11 +6,13 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 ## Motivation
 
+Learn pure JavaScript.
+
 ## Resources
 
-### Books
+### HTML & CSS
 
-#### Basic
+### Basic JavaScript
 
 - [JavaScript For Cats](http://jsforcats.com/)
 - [Exploring ES6](http://exploringjs.com/es6/)
@@ -19,9 +21,23 @@ Path to mastering FullStack JavaScript Development and related technologies.
 - [Secrets of the JavaScript Ninja]()
 - [JavaScript: The Definitive Guide]() (Part II)
 - [Effective JavaScript]()
+- [Human JavaScript](http://read.humanjavascript.com/)
 
-#### Functional Programming
+### Functional Programming
 
-#### Object-Oriented Programming
+### Object-Oriented Programming
 
-#### Async/Concurrent Programming
+### Async/Concurrent Programming
+
+### Node.js
+
+### Databases
+
+### DevOps
+
+## References
+
+- [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
+- []()
+- []()
+- []()
