@@ -6,7 +6,11 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 ## Motivation
 
-Learn pure JavaScript.
+TODO
+
+## Project Goals
+
+TODO
 
 ## Resources
 
@@ -22,12 +26,21 @@ Learn pure JavaScript.
 - [JavaScript: The Definitive Guide]() (Part II)
 - [Effective JavaScript]()
 - [Human JavaScript](http://read.humanjavascript.com/)
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262)
 
 ### Functional Programming
 
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [Functional JavaScript]()
+
 ### Object-Oriented Programming
 
+- [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do)
+- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+
 ### Async/Concurrent Programming
+
+- [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript)
 
 ### Node.js
 
