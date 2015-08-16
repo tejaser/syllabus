@@ -1,3 +1,5 @@
+# WIP
+
 # JavaScript Society
 
 ## FullStack JavaScript Development Path
