@@ -1,24 +1,28 @@
-# WIP
-
-# JavaScript Society
-
-## FullStack JavaScript Development Path
+# JavaScript Society - Syllabus
 
 Path to mastering FullStack JavaScript Development and related technologies.
 
-## Motivation
+## Table of Contents
 
-TODO
+1. [Introduction]()
+1. [Justification]()
+1. [Target Audience]()
+1. [General Goal]()
+1. [Specific Goals]()
+1. [Knowledge Area]()
+1. [Duration]()
+1. [Resources]()
+1. [Development]()
+1. [Methodology]()
+1. [Practical Results]()
+1. [Evaluation]()
+1. [Authors and Contributors]()
 
-## Project Goals
-
-TODO
-
-## Resources
+## 8. Resources
 
 ### HTML & CSS
 
-### Basic JavaScript
+### Essential JavaScript
 
 1. [JavaScript For Cats](http://jsforcats.com/)
 1. [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
@@ -72,13 +76,11 @@ TODO
 
 ### DevOps
 
-## Creators
 
-## Contributors
+## 13. Authors and Contributors
 
-## References
+### References
 
 1. [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 1. [JSBooks](http://jsbooks.revolunet.com/)
-1. []()
