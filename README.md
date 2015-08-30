@@ -4,8 +4,8 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-1. [Justification](#justification)
+1. [Introduction](#1-introduction)
+1. [Justification](#2-justification)
 1. [Target Audience]()
 1. [General Goal]()
 1. [Specific Goals]()
