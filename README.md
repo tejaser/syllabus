@@ -5,7 +5,7 @@ Path to mastering FullStack JavaScript Development and related technologies.
 ## Table of Contents
 
 1. [Introduction](#introduction)
-1. [Justification]()
+1. [Justification](#justification)
 1. [Target Audience]()
 1. [General Goal]()
 1. [Specific Goals]()
@@ -25,6 +25,16 @@ Acquire a new skill is something **hard**, that requires a lot of **discipline**
 When the subject to be learned is very dynamic, this task becomes exponentially more complex. For that reason, we created the **JavaScript Society**. This is a group for **everyone** that want to thoroughly **dominate** the JavaScript language, using it to create complex and scalable applications.
 
 ## 2. Justification
+
+> "99 out of 100 JavaScript developers I interview lack the skills required to hit the ground running on a scalable production JavaScript application."
+>
+> - [Eric Elliot](https://twitter.com/_ericelliott)
+
+There are **thousands** of resources about JavaScript on the internet, and you sooner or later will fall in the *paradox of choice*, situation that in the best case will make you paralyzed without know what to do.
+
+Furthermore, be able to keep yourself continuously surpassing your limits is something really hard, because you will inevitably achieve a plateau and stay stagnant, without evolving and sharpen your skills.
+
+In order to overcome these challenges, we need several different approaches, and this is what our project will offer to you!
 
 ## 3. Target Audience
 
@@ -110,3 +120,5 @@ When the subject to be learned is very dynamic, this task becomes exponentially 
 1. [How to start with JavaScript Programming](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 1. [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 1. [JSBooks](http://jsbooks.revolunet.com/)
+1. [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
+1. [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245)
