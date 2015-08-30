@@ -28,7 +28,7 @@ When the subject to be learned is very dynamic, this task becomes exponentially 
 
 > "99 out of 100 JavaScript developers I interview lack the skills required to hit the ground running on a scalable production JavaScript application."
 >
-> - [Eric Elliot](https://twitter.com/_ericelliott)
+> — [Eric Elliot](https://twitter.com/_ericelliott)
 
 There are **thousands** of resources about JavaScript on the internet, and you sooner or later will fall in the *paradox of choice*, situation that in the best case will make you paralyzed without know what to do.
 
