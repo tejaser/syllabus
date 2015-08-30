@@ -4,7 +4,7 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 ## Table of Contents
 
-1. [Introduction]()
+1. [Introduction](#introduction)
 1. [Justification]()
 1. [Target Audience]()
 1. [General Goal]()
@@ -20,7 +20,9 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 ## 1. Introduction
 
-Acquire a new skill is something hard, that requires a lot of discipline, willpower and a good orientation. When the subject to be learned is very dynamic, this task becomes exponentially more complex. For that reason, we created the JavaScript Society. This is a group for everyone that want to thoroughly dominate the JavaScript language, using it to create complex and scalable applications.
+Acquire a new skill is something **hard**, that requires a lot of **discipline**, **willpower** and a **good orientation**. 
+
+When the subject to be learned is very dynamic, this task becomes exponentially more complex. For that reason, we created the **JavaScript Society**. This is a group for **everyone** that want to thoroughly **dominate** the JavaScript language, using it to create complex and scalable applications.
 
 ## 2. Justification
 
