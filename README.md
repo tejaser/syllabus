@@ -59,39 +59,39 @@ In order to overcome these challenges, we need several different approaches, and
 ### JavaScript
 
 #### Basic JavaScript
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/) `free`
 
 #### Tooling
-- [JavaScript Application Design](https://www.manning.com/books/javascript-application-design)
+- [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) `paid`
 
 #### ES6
-- [Exploring ES6](http://exploringjs.com/es6/)
+- [Exploring ES6](http://exploringjs.com/es6/) `free`
 
 #### Testing
-- [JavaScript Testing Recipes](http://jstesting.jcoglan.com/)
+- [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) `paid`
 
 #### DOM
-- [DOM Enlightenment](http://domenlightenment.com/)
+- [DOM Enlightenment](http://domenlightenment.com/) `free`
 
 #### Functional Programming
-- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) `free`
 
 #### Object-Oriented Programming
-- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) `free`
 
 #### Async Programming
-- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) `free`
 
 #### Ajax
 
 #### Design Patterns & Architectures
-- [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) `free`
 
 #### Single Page Application
-- [Single page apps in depth](http://singlepageappbook.com/)
-- [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf)
-- [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/)
-- [Human JavaScript](http://read.humanjavascript.com/)
+- [Single page apps in depth](http://singlepageappbook.com/) `free`
+- [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) `free`
+- [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) `free`
+- [Human JavaScript](http://read.humanjavascript.com/) `free`
 
 ### Node.js
 
