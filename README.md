@@ -54,6 +54,7 @@ In order to overcome these challenges, we need several different approaches, and
 - [Web Design Basics](http://www.vikingcodeschool.com/web-design-basics)
 - [Software Engineering Basics](http://www.vikingcodeschool.com/software-engineering-basics)
 - [Web Markup and Coding](http://www.vikingcodeschool.com/web-markup-and-coding)
+  - **ps**: Study links up to *Project: Flexing your Markup Muscles*. Do not need to do Ruby section.
 
 ### Essential JavaScript
 
