@@ -56,42 +56,42 @@ In order to overcome these challenges, we need several different approaches, and
 - [Web Markup and Coding](http://www.vikingcodeschool.com/web-markup-and-coding)
   - **ps**: Study links up to *Project: Flexing your Markup Muscles*. Do not need to do Ruby section.
 
-### Basic JavaScript
-- [Eloquent JavaScript]()
+### JavaScript
 
-### Tooling
-- [JavaScript Application Design]()
+#### Basic JavaScript
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-### ES6
-- [Exploring ES6]()
+#### Tooling
+- [JavaScript Application Design](https://www.manning.com/books/javascript-application-design)
 
-### Testing
-- [JavaScript Testing Recipes]()
+#### ES6
+- [Exploring ES6](http://exploringjs.com/es6/)
 
-### DOM
-- [DOM Enlightenment]()
+#### Testing
+- [JavaScript Testing Recipes](http://jstesting.jcoglan.com/)
 
+#### DOM
+- [DOM Enlightenment](http://domenlightenment.com/)
 
-### Functional Programming
-- [JavaScript Allongé, the "Six" Edition]()
+#### Functional Programming
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 
-### Object-Oriented Programming
-- [JavaScript Spessore]()
+#### Object-Oriented Programming
+- [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
 
-### Async Programming
-- [You Don't Know JS: Async & Performance]()
+#### Async Programming
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 
-### Ajax
+#### Ajax
 
-### Design Patterns & Architectures
-- [Learning JavaScript Design Patterns]()
+#### Design Patterns & Architectures
+- [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-### Single Page Application
-- [Single page apps in depth]()
-- [Building A JavaScript Framework]()
-- [Building Front-End Web Apps with Plain JavaScript]()
-- [Human JavaScript]()
-
+#### Single Page Application
+- [Single page apps in depth](http://singlepageappbook.com/)
+- [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf)
+- [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/)
+- [Human JavaScript](http://read.humanjavascript.com/)
 
 ### Node.js
 
