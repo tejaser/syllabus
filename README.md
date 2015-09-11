@@ -48,7 +48,12 @@ In order to overcome these challenges, we need several different approaches, and
 
 ## 8. Resources
 
-### HTML & CSS
+### Introduction to Web Development
+
+- [Web Development Basics](http://www.vikingcodeschool.com/web-development-basics)
+- [Web Design Basics](http://www.vikingcodeschool.com/web-design-basics)
+- [Software Engineering Basics](http://www.vikingcodeschool.com/software-engineering-basics)
+- [Web Markup and Coding](http://www.vikingcodeschool.com/web-markup-and-coding)
 
 ### Essential JavaScript
 
