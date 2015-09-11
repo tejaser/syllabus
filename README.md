@@ -6,17 +6,17 @@ Path to mastering FullStack JavaScript Development and related technologies.
 
 1. [Introduction](#1-introduction)
 1. [Justification](#2-justification)
-1. [Target Audience]()
-1. [General Goal]()
-1. [Specific Goals]()
-1. [Knowledge Area]()
-1. [Duration]()
-1. [Resources]()
-1. [Development]()
-1. [Methodology]()
-1. [Practical Results]()
-1. [Evaluation]()
-1. [Authors and Contributors]()
+1. [Target Audience](#3-target-audience)
+1. [General Goal](#4-general-goal)
+1. [Specific Goals](#5-specific-goal)
+1. [Knowledge Area](#6-knowledge-area)
+1. [Duration](#7-duration)
+1. [Resources](#8-resources)
+1. [Development](#9-development)
+1. [Methodology](#10-methodology)
+1. [Practical Results](#11-practical-results)
+1. [Evaluation](#12-evaluation)
+1. [Authors and Contributors](#13-authors-and-contributors)
 
 ## 1. Introduction
 
