@@ -8,7 +8,7 @@ Path to mastering FullStack JavaScript Development and related technologies.
 1. [Justification](#2-justification)
 1. [Target Audience](#3-target-audience)
 1. [General Goal](#4-general-goal)
-1. [Specific Goals](#5-specific-goal)
+1. [Specific Goals](#5-specific-goals)
 1. [Knowledge Area](#6-knowledge-area)
 1. [Duration](#7-duration)
 1. [Resources](#8-resources)
