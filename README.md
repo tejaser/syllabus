@@ -50,12 +50,11 @@ In order to overcome these challenges, we need several different approaches, and
 
 ### [JavaScript Path](https://github.com/javascript-society/javascript-path)
 
-### [Node.js Path]()
+### Node.js Path
 
-### [DBA Path]()
+### DBA Path
 
-### [DevOps]()
-
+### DevOps Path
 
 ## 9. Development
 
