@@ -15,7 +15,7 @@ Path to mastering FullStack JavaScript Development and related technologies.
 1. [Development](#9-development)
 1. [Methodology](#10-methodology)
 1. [Practical Results](#11-practical-results)
-1. [Evaluation](#12-evaluation)
+1. [Assessment](#12-assessment)
 1. [Authors and Contributors](#13-authors-and-contributors)
 
 ## 1. Introduction
@@ -62,7 +62,7 @@ In order to overcome these challenges, we need several different approaches, and
 
 ## 11. Practical Results
 
-## 12. Evaluation
+## 12. Assessment
 
 ## 13. Authors and Contributors
 
